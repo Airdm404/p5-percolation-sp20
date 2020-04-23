@@ -1,4 +1,4 @@
-class PercolationUF implements IPercolate {
+public class PercolationUF implements IPercolate {
 
     boolean [][] myGrid;
     int myOpenCount = 0;
