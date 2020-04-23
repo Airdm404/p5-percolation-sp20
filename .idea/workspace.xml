@@ -1,69 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="443d8463-54fa-4b33-b5f2-cea90ce28a85" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P5-Percolation-SP20.iml" afterDir="false" />
+    <list default="true" id="40186d4b-c777-4992-bcd6-726ef516057c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/PercolateUF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PercolationBFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PercolationDFSFast.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/P6-Percolation-Fall19.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/analysis/analysis.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P6-Percolation-Fall19/IPercolate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P6-Percolation-Fall19/IUnionFind.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P6-Percolation-Fall19/InteractivePercolationVisualizer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P6-Percolation-Fall19/PercolationDFS.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P6-Percolation-Fall19/PercolationStats.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P6-Percolation-Fall19/QuickFind.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P6-Percolation-Fall19/QuickUW.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P6-Percolation-Fall19/QuickUWPC.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P6-Percolation-Fall19/StdDraw.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P6-Percolation-Fall19/StdStats.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P6-Percolation-Fall19/TestDFSPercolation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P6-Percolation-Fall19/TestUFPercolation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InteractivePercolationVisualizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InteractivePercolationVisualizer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestDFSPercolation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestDFSPercolation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestUFPercolation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestUFPercolation.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1YiInQJPmmmUBhXO60LuFXKde8c" />
+  <component name="ProjectId" id="1av6ctlBVlFmcEXdz8flXwS6Pqw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="Repository.Attach.Annotations" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/a5" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.InteractivePercolationVisualizer">
     <configuration name="InteractivePercolationVisualizer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="InteractivePercolationVisualizer" />
-      <module name="P5-Percolation-SP20" />
+      <module name="p5-percolation-sp20" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDFSPercolation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="p5-percolation-sp20" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestDFSPercolation" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestUFPercolation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="p5-percolation-sp20" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestUFPercolation" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -71,33 +66,64 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.InteractivePercolationVisualizer" />
+        <item itemvalue="JUnit.TestUFPercolation" />
+        <item itemvalue="JUnit.TestDFSPercolation" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="443d8463-54fa-4b33-b5f2-cea90ce28a85" name="Default Changelist" comment="" />
-      <created>1573848640530</created>
+      <changelist id="40186d4b-c777-4992-bcd6-726ef516057c" name="Default Changelist" comment="" />
+      <created>1587603802268</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1573848640530</updated>
+      <updated>1587603802268</updated>
     </task>
     <servers />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
+  <component name="WindowStateProjectService">
+    <state x="287" y="0" key="CommitChangelistDialog2" timestamp="1587614143423">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="287" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1587614143423" />
+    <state x="740" y="296" key="FileChooserDialogImpl" timestamp="1587603923665">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="296" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1587603923665" />
+    <state width="1237" height="195" key="GridCell.Tab.0.bottom" timestamp="1587614136532">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="195" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1587614136532" />
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1587603830362" />
+    <state width="1237" height="195" key="GridCell.Tab.0.center" timestamp="1587614136531">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="195" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1587614136531" />
+    <state width="1877" height="295" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1587603830362" />
+    <state width="1237" height="195" key="GridCell.Tab.0.left" timestamp="1587614136531">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="195" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1587614136531" />
+    <state width="1877" height="295" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1587603830362" />
+    <state width="1237" height="195" key="GridCell.Tab.0.right" timestamp="1587614136531">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="195" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1587614136531" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1587603830362" />
   </component>
 </project>
